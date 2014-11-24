@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>logentries.log4net.1210</id>
+        <version>2.6.0</version>
+        <title>Logentries New Cert Plugin for Log4net[1.2.10]</title>
+        <authors>Kyle Stittleburg</authors>
+        <owners>Mark Lacomber, LogEntries</owners>
+        <projectUrl>https://github.com/kylestittleburg/le_dotnet</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Repacking of logentries.log4net for use with log4net 1.2.10 in case you still have legacy frameworks hanging around.  Original instructions can be found at https://github.com/logentries/le_log4net</description>
+        <copyright>Copyright 2011-2014</copyright>
+        <tags>logging Logentries log4net</tags>
+        <dependencies>
+            <dependency id="logentries.core" version="2.6.0" />
+            <dependency id="log4net" version="[1.2.10]" />
+        </dependencies>
+    </metadata>
+</package>
