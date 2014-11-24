@@ -3,7 +3,7 @@
     <metadata>
         <id>logentries.log4net.1210</id>
         <version>2.6.0</version>
-        <title>Logentries New Cert Plugin for Log4net[1.2.10]</title>
+        <title>Logentries Plugin for Log4net[1.2.10]</title>
         <authors>Kyle Stittleburg</authors>
         <owners>Mark Lacomber, LogEntries</owners>
         <projectUrl>https://github.com/kylestittleburg/le_dotnet</projectUrl>
